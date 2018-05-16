@@ -1,0 +1,9 @@
+h2 {
+  height: 20em;
+  font-family: Courier;
+  text-align: center;
+  font-size: 24em;
+  background-image: url("sea-otter.jpg");
+  background-position: center;
+  color: goldenrod;
+}
